@@ -1,0 +1,7 @@
+title: Example project
+description: Project description in here.
+theme: minima
+header_pages:
+- about.md
+- team.md
+permalink: pretty
